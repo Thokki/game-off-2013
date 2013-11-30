@@ -4,11 +4,13 @@
 
 Winter. Winter never changes. We find our hero **Alfonso "The Nuts" McSquirrel** facing the coldest winter yet with no stash of food.
 
+[Play the game](https://webviking.co.uk/github-gameoff/)
+
 ## Gameplay
 
-Your main goal is to deliver enough nuts to your nest to survive the winter.
+Your main goal is to deliver enough nuts to your nest to survive the winter. The weather is changing fast, so keep your eye on the timer.
 
-![Alfonso](http://webviking.co.uk/github-gameoff/github/alfonso.png) **Alfonso**, the lovable little squirrel on the mercy of your keyboard
+![Alfonso](http://webviking.co.uk/github-gameoff/github/alfonso.png) **Alfonso**, the lovable little squirrel at the mercy of your keyboard
 
 ![Bears](http://webviking.co.uk/github-gameoff/github/bear.png) **Bears**, the forest bullies that don't want to play ball
 
@@ -30,3 +32,6 @@ While carring a nut hit **space** to throw the nut at bears or at your nest.
 
 * [Phaser](https://github.com/photonstorm/phaser) - JavaScript 2D game framework
 * [Marc Russell](http://www.spicypixel.net) / [GFXLib FuZED](http://opengameart.org/content/gfxlib-fuzed) - tile and background art
+
+## Missing features
+
