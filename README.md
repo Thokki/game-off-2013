@@ -26,12 +26,12 @@ While carring a nut hit **space** to throw the nut at bears or at your nest.
 
 ## Credits
 
-* [Pertti Soomann](https://twitter.com/toooldtoocold) - code, graphics
+* [Pertti Soomann](https://twitter.com/toooldtoocold) - code, sprite graphics
 
 ## Additional Credits
 
 * [Phaser](https://github.com/photonstorm/phaser) - JavaScript 2D game framework
-* [Marc Russell](http://www.spicypixel.net) / [GFXLib FuZED](http://opengameart.org/content/gfxlib-fuzed) - tile and background art
+* [Marc Russell](http://www.spicypixel.net) / [GFXLib FuZED](http://opengameart.org/content/gfxlib-fuzed) - map tiles and background art
 
 ## Missing features
 
