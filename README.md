@@ -14,7 +14,7 @@ Your main goal is to deliver enough nuts to your nest to survive the winter. The
 
 ![Bears](http://webviking.co.uk/github-gameoff/github/bear.png) **Bears**, the forest bullies that don't want to play ball
 
-![Nuts](http://webviking.co.uk/github-gameoff/github/nut.png) **Nuts**, these will come handy over long freezing winter
+![Nuts](http://webviking.co.uk/github-gameoff/github/nuts.png) **Nuts**, these will come handy over long freezing winter
 
 ![Nest](http://webviking.co.uk/github-gameoff/github/home.png) **Your nest**, you can store any nuts you find here
 
