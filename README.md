@@ -39,7 +39,7 @@ While carring a nut hit **space** to throw the nut at bears or at your nest.
 * [Phaser](https://github.com/photonstorm/phaser) - JavaScript 2D game framework
 * [Marc Russell](http://www.spicypixel.net) / [GFXLib FuZED](http://opengameart.org/content/gfxlib-fuzed) - map tiles and background art
 
-## Missing features (Doh! Special "Not-enough-time-in-a-day" edition)
+## Coming in "Not-enough-time-in-a-day" edition
 
 * I started with idea of level changing as player keeps playing, with some snow effects and updated tile map with settling snow
 * Proper menu system, with New Game and Settings options
