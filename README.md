@@ -7,6 +7,7 @@ Winter. Winter never changes. We find our hero **Alfonso "The Nuts" McSquirrel**
 ## Controls
 
 Use **left** and **right** key to move Alfonso and **up** key to jump.
+
 While carring a nut hit **space** to throw the nut at bears or at your cave.
 
 ## Credits
@@ -16,4 +17,4 @@ While carring a nut hit **space** to throw the nut at bears or at your cave.
 ## Additional Credits
 
 * [Phaser](https://github.com/photonstorm/phaser) - base JavaScript framework
-* [Marc Russell](www.spicypixel.net) - tile and background art
+* [Marc Russell](http://www.spicypixel.net) / [GFXLib FuZED](http://opengameart.org/content/gfxlib-fuzed) - tile and background art
