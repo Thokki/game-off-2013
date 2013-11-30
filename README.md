@@ -22,6 +22,8 @@ Your main goal is to deliver enough nuts to your nest to survive the winter. The
 
 ![Nest](http://webviking.co.uk/github-gameoff/github/home.png) **Your nest**, you can store any nuts you find here
 
+Deliver enough nuts to get more time or sacrifice some nuts and kill of few of the bears. Succesfully throwing nuts at your nest will also give you some bonus points.
+
 ## Controls
 
 Use **left** and **right** key to move Alfonso and **up** key to jump.
@@ -39,9 +41,10 @@ While carring a nut hit **space** to throw the nut at bears or at your nest.
 
 ## Missing features (Doh! Special "Not-enough-time-in-a-day" edition)
 
-* I started with idea of level actually changing as you go along, with some snow effects and updated tile map with settling snow
+* I started with idea of level changing as player keeps playing, with some snow effects and updated tile map with settling snow
 * Proper menu system, with New Game and Settings options
 * Saved high-scores table
 * Sound effects
 * Bigger levels. Level generation routine could handle it, but framework's tile collision blows up if level is any higher
-* Fix graphics in few corner cases when branches are overlapping 
+* Fix graphics in few corner cases when branches are overlapping
+* Figure out why physics engine thinks some still nuts are actually moving by 0.0000001, causing bears to be killed as they have been hit by a "flying nut"
