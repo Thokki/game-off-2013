@@ -8,7 +8,7 @@ Winter. Winter never changes. We find our hero **Alfonso "The Nuts" McSquirrel**
 
 Your main goal is to deliver enough nuts to your nest to survive the winter.
 
-(http://webviking.co.uk/github-gameoff/github/alfonso.png) Alfonso, the lovebly little squirrel on the mercy of your keyboard
+![Alfonso](http://webviking.co.uk/github-gameoff/github/alfonso.png) Alfonso, the lovebly little squirrel on the mercy of your keyboard
 
 ## Controls
 
