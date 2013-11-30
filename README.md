@@ -4,7 +4,7 @@
 
 Winter. Winter never changes. We find our hero **Alfonso "The Nuts" McSquirrel** facing the coldest winter yet with no stash of food.
 
-
+Help him collect enough loot to survive the winter, while fighting mean bears over randomly generated levels.
 
 [Play the game](https://webviking.co.uk/github-gameoff/)
 
@@ -39,7 +39,8 @@ While carring a nut hit **space** to throw the nut at bears or at your nest.
 
 ## Missing features (Doh! Special "Not-enough-time-in-a-day" edition)
 
-* I started with idea of level actually changing as you go along, with some snow effects and updated tile map with settling snow.
+* I started with idea of level actually changing as you go along, with some snow effects and updated tile map with settling snow
 * Proper menu system, with New Game and Settings options
 * Saved high-scores table
 * Sound effects
+* Bigger levels. Level generation routine could handle it, but framework's tile collision blows up if level is any higher
