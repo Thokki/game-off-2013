@@ -6,7 +6,7 @@ Winter. Winter never changes. We find our hero **Alfonso "The Nuts" McSquirrel**
 
 Help him collect enough loot to survive the winter, while fighting mean bears over randomly generated levels.
 
-[Play the game](https://webviking.co.uk/github-gameoff/)
+[Play the game](http://webviking.co.uk/github-gameoff/)
 
 ## Gameplay
 
